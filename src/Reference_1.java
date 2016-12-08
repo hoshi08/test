@@ -14,7 +14,7 @@ public class Reference_1 {
 		Point p2 = new Point();
 		Point p3 = p2;
 		p1.x = 1;
-		p1.y = 0;
+		p1.y = 2;
 		p2.x = 5;
 		p2.y = 10;
 
